@@ -31,34 +31,6 @@ The Unit Converter Tool is a simple command-line application built using Python.
 
 * Python 3
 
-## 📂 Project Structure
-
-```
-Unit_Converter_Tool/
-│── unit_converter.py
-└── README.md
-```
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Unit-Converter-Tool.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd Unit-Converter-Tool
-```
-
-3. Run the program:
-
-```bash
-python unit_converter.py
-```
-
 ## 📖 Concepts Used
 
 * Variables
